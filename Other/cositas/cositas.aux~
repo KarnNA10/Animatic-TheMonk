@@ -1,0 +1,19 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="cositas" ID="1" Modified="2026-07-27 14:19:12">
+ <Element ID="1" Name="pAGIARITO" Folder="pAGIARITO">
+  <Drawing Version="1" Key="" Name="1"/>
+  <Drawing Version="1" Key="" Name="2"/>
+  <Drawing Version="1" Key="" Name="3"/>
+  <Drawing Version="1" Key="" Name="4"/>
+  <Drawing Version="1" Key="" Name="5"/>
+ </Element>
+ <Element ID="2" Name="01_FRONT_TRONCO" Folder="01_FRONT_TRONCO">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+ <Element ID="3" Name="02_MIDDLE_VAQUITA" Folder="02_MIDDLE_VAQUITA">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+ <Element ID="4" Name="03_BACKGROUND_CIELO" Folder="03_BACKGROUND_CIELO">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+</SceneVersion>
