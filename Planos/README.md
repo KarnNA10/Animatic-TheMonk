@@ -1,20 +1,12 @@
 Paint-Preview files:
-
-\---
-
-
-
+---
 
 
 Archivos editables de los planos
 
 
-
-
-
 PNG files:
-
-\---
+---
 
 
 
