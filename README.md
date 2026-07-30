@@ -1,2 +1,10 @@
 # Animatic-TheMonk
-Hope this code help me not to want to shot myself anymore. Don't forget to lik y sher
+
+
+
+Planos
+
+&#x20;  ╚ Paint-Preview files: archivos paint e imágenes de cómo se ve el plano
+
+&#x20;  ╚ PNG files: imagenes del plano separadas. Una carpeta por plano
+
