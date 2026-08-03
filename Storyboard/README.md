@@ -1,0 +1,6 @@
+![h1](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Storyboard/001.jpeg)
+![h2](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Storyboard/002.jpeg)
+![h3](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Storyboard/003.jpeg)
+![h4](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Storyboard/004.jpeg)
+![h5](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Storyboard/005.jpeg)
+![h6](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Storyboard/006.jpeg)
