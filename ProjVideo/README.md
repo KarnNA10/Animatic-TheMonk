@@ -1,1 +1,1 @@
-Solo quería hacer este directorio jajjajajjajajjj
+Todos los videos (.mov/.mp4) fueron movidos a [https://archive.org/details/Knight_of_the_Abbey_1](https://archive.org/details/Knight_of_the_Abbey_1), debido a que eran muy pesados para dejarlos aquí. pez->𓆛
