@@ -1,0 +1,60 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="Batch04" ID="1" Modified="2026-08-07 13:42:20">
+ <Element Folder="planta_blur" Name="planta_blur" ID="1">
+  <Drawing Name="01_plantitas" Version="1" Key=""/>
+ </Element>
+ <Element Folder="mono_blur" Name="mono_blur" ID="2">
+  <Drawing Name="01_plantitas" Version="1" Key=""/>
+  <Drawing Name="02_MonoyFondo" Version="1" Key=""/>
+ </Element>
+ <Element Folder="planta_clear" Name="planta_clear" ID="3">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Folder="mono_clear" Name="mono_clear" ID="4">
+  <Drawing Name="02_MonoyFondo" Version="1" Key=""/>
+ </Element>
+ <Element Folder="026" Name="026" ID="5">
+  <Drawing Name="01_FlorMano" Version="1" Key=""/>
+  <Drawing Name="02_fondo" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing" Name="Drawing" ID="6">
+  <Drawing Name="01_FlorMano" Version="1" Key=""/>
+ </Element>
+ <Element Folder="027" Name="027" ID="7">
+  <Drawing Name="01_florMano" Version="1" Key=""/>
+  <Drawing Name="02_ojosCerrados" Version="1" Key=""/>
+  <Drawing Name="03_base" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing.8" Name="Drawing" ID="8">
+  <Drawing Name="01_florMano" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing_1" Name="Drawing_1" ID="9">
+  <Drawing Name="02_ojosCerrados" Version="1" Key=""/>
+ </Element>
+ <Element Folder="009" Name="009" ID="10">
+  <Drawing Name="01_mono" Version="1" Key=""/>
+  <Drawing Name="02_nubes" Version="1" Key=""/>
+  <Drawing Name="03_abadia" Version="1" Key=""/>
+  <Drawing Name="04_fondo" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing.11" Name="Drawing" ID="11">
+  <Drawing Name="03_abadia" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing_1.12" Name="Drawing_1" ID="12">
+  <Drawing Name="02_nubes" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing_2" Name="Drawing_2" ID="13">
+  <Drawing Name="01_mono" Version="1" Key=""/>
+ </Element>
+ <Element Folder="027.14" Name="027" ID="14">
+  <Drawing Name="01_florMano" Version="1" Key=""/>
+  <Drawing Name="02_ojosCerrados" Version="1" Key=""/>
+  <Drawing Name="03_base" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing.15" Name="Drawing" ID="15">
+  <Drawing Name="02_ojosCerrados" Version="1" Key=""/>
+ </Element>
+ <Element Folder="Drawing_1.16" Name="Drawing_1" ID="16">
+  <Drawing Name="01_florMano" Version="1" Key=""/>
+ </Element>
+</SceneVersion>
