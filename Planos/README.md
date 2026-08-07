@@ -1,20 +1,12 @@
 ---
 ### PNG files:
-
-
 imágenes para hacer el animatic en After Effects/Harmony/PowerPoint. Cada carpeta es un plano.
-
-
 ### PSD files:
-
-
 Archivos editables de los planos (.psd/.paint)
-
-
 ### Storyboard:
-
-
 imagen exportada de cómo se ve cada plano o .psd. La tabla de abajo es un compilado visual de estas imágenes.
+### Proyectos Ae:
+Archivos/carpetas con los proyectos de animatic en Affter Effects y Harmony. Los videos exportados de estos proyectos están en ProjVideo (local) y en el [Internet Archive](https://archive.org/details/Knight_of_the_Abbey_1)
 
 
 ---
@@ -36,3 +28,18 @@ imagen exportada de cómo se ve cada plano o .psd. La tabla de abajo es un compi
 |035![035](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/035.png)M1:"Es MUY brave..."|036![036](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/036.png)*Sonidos de miedo así bien Silent Hill|037![037](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/037.png)|
 |038![038](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/038.png)F:"..."<br/>S:"Puedes hacerlo"|039![039](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/039.png)|040![040](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/040.png)|
 |041![041](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/041.png)|042![042](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/042.png)|043![043](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/043.png)|
+
+
+---
+# Batches - Videos
+
+|**Batch**|Planos animados|Program / file|
+|-|-|-|
+|01|001 - 010|After Effects .aep|
+|02|011 - 016|Harmony .xstage.lnk|
+|03|017 - 020|Harmony .xstage|
+|--|021 - 024|Directo a ClipChamp|
+|04|025 - 027|Harmony .xstage|
+|--|028 - 035|Directo a ClipChamp|
+|05|036 - 042|Harmony .xstage|
+
