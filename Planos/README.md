@@ -11,26 +11,26 @@ imágenes para hacer el animatic en After Effects/Harmony/PowerPoint. Cada carpe
 Archivos editables de los planos (.psd/.paint)
 
 
-### Preview:
+### Storyboard:
 
 
 imagen exportada de cómo se ve cada plano o .psd. La tabla de abajo es un compilado visual de estas imágenes.
 
 
 ---
-# Preview
+# Storyboard
 
-|001![001](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/001.png)|002![002](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/002.png)|003![003](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/003.png)|
+|001![001](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/001.png)|002![002](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/002.png)|003![003](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/003.png)|
 |-|-|-|
-|004![004](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/004.png)*Le salen alas|005![005](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/005.png)|006![006](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/006.png)|
-|007![007](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/007.png)|008![008](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/008.png)|009![009](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/009.png)|
-|010![010](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/010.png)|011![011](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/011.png)|012![012](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/012.png)|
-|013![013](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/013.png)|014![014](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/014.png)*Dies irae órgano|015![015](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/015.png)*Dies irae coro|
-|016![016](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/016.png)*Se acomoda discretamente|017![017](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/017.png)*F mira afuera, distraído|018![018](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/018.png)Entra discretamente, después de dar unos pasos... Severo:"Ya me preguntaba...|
-|019![019](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/019.png)...A qué hora llegarías"|020![020](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/020.png)Fati:"H-Hola, Severo..."|021![021](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/021.png)"Vamos, hoy no llegué tarde al laboratorio"|
-|022![022](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/022.png)S:"No, pero te vi llegar tarde a la misa de laudes"|023![023](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/023.png)F:"... Hoy te ayudaré con los remedios?"|024![024](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/024.png)S:"**!NO!** ahora ve a atender las plantas"|
-|025![025](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/025.png)|026![026](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/026.png)|027![027](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/027.png)|
-|-![009](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/009.png)(=009)|-![027](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/027.png)(=027)|028![028](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/028.png)|
-|029![029](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/029.png)|030![030](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/030.png)|031![031](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/031.png)|
-|032![032](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/032.png)|033![033](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/033.png)|034![034](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Preview/034.png)|
+|004![004](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/004.png)*Le salen alas|005![005](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/005.png)|006![006](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/006.png)|
+|007![007](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/007.png)|008![008](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/008.png)|009![009](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/009.png)|
+|010![010](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/010.png)|011![011](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/011.png)|012![012](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/012.png)|
+|013![013](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/013.png)|014![014](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/014.png)*Dies irae órgano|015![015](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/015.png)*Dies irae coro|
+|016![016](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/016.png)*Se acomoda discretamente|017![017](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/017.png)*F mira afuera, distraído|018![018](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/018.png)Entra discretamente, después de dar unos pasos... Severo:"Ya me preguntaba...|
+|019![019](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/019.png)...A qué hora llegarías"|020![020](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/020.png)Fati:"H-Hola, Severo..."|021![021](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/021.png)"Vamos, hoy no llegué tarde al laboratorio"|
+|022![022](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/022.png)S:"No, pero te vi llegar tarde a la misa de laudes"|023![023](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/023.png)F:"... Hoy te ayudaré con los remedios?"|024![024](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/024.png)S:"**!NO!** ahora ve a atender las plantas"|
+|025![025](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/025.png)|026![026](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/026.png)|027![027](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/027.png)|
+|-![009](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/009.png)(=009)|-![027](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/027.png)(=027)|028![028](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/028.png)|
+|029![029](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/029.png)|030![030](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/030.png)|031![031](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/031.png)|
+|032![032](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/032.png)|033![033](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/033.png)|034![034](https://github.com/KarnNA10/Animatic-TheMonk/blob/main/Planos/Storyboard/034.png)|
 
