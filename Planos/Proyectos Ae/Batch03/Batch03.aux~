@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion Modified="2026-08-06 21:28:46" ID="1" VersionName="Batch03">
+<SceneVersion Modified="2026-08-06 23:10:33" ID="1" VersionName="Batch03">
  <Element Name="017_1" Folder="017_1" ID="1">
   <Drawing Name="01_Monos" Version="1" Key=""/>
  </Element>
@@ -32,5 +32,24 @@
  </Element>
  <Element Name="Drawing" Folder="Drawing" ID="10">
   <Drawing Name="02_mono2" Version="1" Key=""/>
+ </Element>
+ <Element Name="019" Folder="019" ID="11">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="020" Folder="020" ID="12">
+  <Drawing Name="01_ojos1" Version="1" Key=""/>
+  <Drawing Name="02_MonoBase" Version="1" Key=""/>
+  <Drawing Name="03_brazo" Version="1" Key=""/>
+  <Drawing Name="04_fondo" Version="1" Key=""/>
+ </Element>
+ <Element Name="Drawing" Folder="Drawing.13" ID="13">
+  <Drawing Name="03_brazo" Version="1" Key=""/>
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="Drawing_1" Folder="Drawing_1.14" ID="14">
+  <Drawing Name="02_MonoBase" Version="1" Key=""/>
+ </Element>
+ <Element Name="Drawing_2" Folder="Drawing_2.15" ID="15">
+  <Drawing Name="01_ojos1" Version="1" Key=""/>
  </Element>
 </SceneVersion>
